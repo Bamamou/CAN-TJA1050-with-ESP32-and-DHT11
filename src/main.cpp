@@ -119,6 +119,6 @@ void setup() {
 
 void loop() {
   // To change this code to a receiver just uncomment the canReceiver()
- // canSender();
-  canReceiver();
+    canSender();
+ // canReceiver();
 }
